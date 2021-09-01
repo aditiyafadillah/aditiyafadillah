@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditiyafadillah
-- 👀 I’m interested in Laravel, Flutter
+- 👀 I’m interested in Laravel, Flutter, React Js
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
